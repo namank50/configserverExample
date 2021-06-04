@@ -1,0 +1,8 @@
+my:
+   greeting:
+           Hello World
+app:
+   name: 
+           My Application
+   description:
+           Welcome to ${app.name}
